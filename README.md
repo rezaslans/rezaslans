@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Junior Junior Junior Frontend Developer
+Junior Junior Junior Developer
 
 💻 Worked on:
 
