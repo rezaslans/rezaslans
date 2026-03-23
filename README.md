@@ -9,6 +9,8 @@ Junior Junior Junior Frontend Developer
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
+## 💬 Contact Me
+[Telegram](https://t.me/realioi)
 <!--
 **rezaslans/rezaslans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
